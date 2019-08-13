@@ -1,5 +1,6 @@
 # Credit-Fraud-Detection-IEEE
 LightGBM model to predict Credit Card Fraud for the [Kaggle Fraud Detection Contest](https://www.kaggle.com/c/ieee-fraud-detection)
+
 Current Accuracy: 93.53%
 
 ## Team Members
